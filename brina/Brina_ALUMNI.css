@@ -1,0 +1,91 @@
+div.header{
+	height: 80px;
+	width: 92%;
+	margin-top: 20px;
+	margin-left: 40px;
+	background-color: #E55C7A;
+	z-index: 0;
+	position: absolute;
+	top: 37px;
+}
+
+h1.main{
+	font-size: 25px;
+	color: #ffffff;
+	margin-left: 170px;
+	margin-top: 29px;
+}
+
+.uic{
+	width: 125px;
+  	height: 125px;
+ 	margin-right: 10px;
+  	z-index: 1;
+  	position: absolute;
+  	top: 35px;
+  	left: 80px;
+}
+
+.sidenavleft{
+  height: 2000px;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  margin-left: 40px;
+  background-color: #ffffff;
+  overflow-x: hidden;
+  padding-top: 20px;
+  top: 170px;
+
+}
+
+.sidenavcenter{
+  height: 2000px;
+  width: 638px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  margin-left: 350px;
+  background-color: #E2D6D8;
+  overflow-x: hidden;
+  padding-top: 20px;
+  top: 170px;
+}
+
+.sidenavright{
+  height: 2000px;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 60px;
+  background-color: #E55C7A;
+  overflow-x: hidden;
+  padding-top: 20px;
+  top: 170px;
+}
+
+button{
+	margin-left: 20px;
+	border-radius: 30px;
+	width: 124px;
+	height: 45px;
+	background: #E55C7A;
+}
+.h12{
+	text-align: center; 
+	
+}
+
+h1.lol{
+	font-size: 25px;
+	color: #black;
+	margin-top: 29px;
+}
+
+img.cul{
+
+	height: 300px; 
+	width: 600px;
+}
